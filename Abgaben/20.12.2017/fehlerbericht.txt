@@ -1,0 +1,4 @@
+Ausbesserungen und Fehler: 
+- Kürzung der Titel
+- Blocksatz einstellen
+- Menü ausbessern und neu anordnen

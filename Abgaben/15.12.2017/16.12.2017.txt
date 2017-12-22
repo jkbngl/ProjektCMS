@@ -1,0 +1,5 @@
+﻿Weiterentwicklung Webseite
+
+Erstellung der Unterseiten
+Einfügen Bilder in Startseite und Unterseiten
+Einfügen erste TExte in Unterseiten
